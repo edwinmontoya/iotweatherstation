@@ -7,7 +7,7 @@
 
 github: https://github.com/edwinmontoya/iotweatherstation.git
 
-#1. arduino/iotws-testWebGetTime/*
+# 1. arduino/iotws-testWebGetTime/*
 
 Description: This program test the connection to the server "iotweatherstation" in order to obtain the Date (day+hour) in format: yyyy:mm:dd:hh:mm:ss
 the connection is done throught Wifi network and HTTP Connection. It uses GET Method.
