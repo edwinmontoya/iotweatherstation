@@ -1,5 +1,5 @@
 # project: IoT Weather Station #
-## EAFIT University, ## Systems Engineering, 20171 ##
+## EAFIT University, Systems Engineering, 20171 ##
 
 ### authors: Edwin Montoya Munera - emontoya@eafit.edu.co and David Velasquez - dvelas25@eafit.edu.co ###
 
