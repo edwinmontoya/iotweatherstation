@@ -18,11 +18,11 @@ Se implementan los servicios:
 
 * getTime: Obtiene el dia+hora en formato: yyyy:mm:dd:hh:mm:ss
 
-    http://iotserver1.dis.eafit.edu.co/weather/getTime
+        http://iotserver1.dis.eafit.edu.co/weather/getTime
     
 * saveSensors: guarda en Base de Datos los valores de Temperatura + Humedad.
 
-    http://iotserver1.dis.eafit.edu.co/weather/saveSensors?idHome=<home>&temp=<val_temp>&humid=<val_humid>&timestamp=<day+hour>
+        http://iotserver1.dis.eafit.edu.co/weather/saveSensors?idHome=<home>&temp=<val_temp>&humid=<val_humid>&timestamp=<day+hour>
     
     
     
